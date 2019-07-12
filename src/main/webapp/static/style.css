@@ -1,0 +1,52 @@
+.la-custom{
+
+    background-color:rgba(8, 8, 8, 0.938);
+    border-bottom: 10px  solid rgb(174, 176, 177);
+    color: rgb(213, 214, 214);
+}
+
+.headerImageFont{
+    color: rgba(112, 164, 233, 0.856);
+}
+
+.bgheader{
+    background-image:  url("audio-black-and-white-black-and-white-6966.jpg");
+    width: 100%;
+}
+
+.no-radius{
+    border-radius:0!important;
+}
+
+.myBox img {
+
+max-height:350px;
+display: block;
+margin: 10 auto; 
+}
+
+.myBox h4{
+    text-align:center;
+}
+footer {
+
+   background: black;
+   padding: 15px;
+   color: black;
+    display: block;
+    margin: 0 auto; 
+    }
+
+    
+    .spinner-border.text-dark{
+        width:3em;
+        height: 3em;
+        display: block;
+        margin: 50% auto;
+
+    }
+
+    img#check{
+        display:block;
+        margin: 15% auto;
+    }
